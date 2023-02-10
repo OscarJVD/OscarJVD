@@ -8,7 +8,6 @@ I am, a FullStack JavaScript developer specialized in React, Next.js and Node.js
 - 💬 Ask me about:
 💻 Programming
 ✨ Chess
-📊 Trading
 
 - 📫 How to reach me: javivar2020@gmail.com or Whatsapp: 3133043714 🧩
 
