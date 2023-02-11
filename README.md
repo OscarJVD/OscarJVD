@@ -12,7 +12,7 @@ I've 4 years of experience in web application development. I create engaging and
 
 - 📫 How to reach me: javivar2020@gmail.com or Whatsapp: 3133043714 🧩
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lobaton2020&show_icons=true&locale=en&layout=compact" alt="Lobaton2020" /></p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OscarJVD&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OscarJVD&show_icons=true&locale=en&layout=compact" alt="OscarJVD" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OscarJVD&show_icons=true&locale=en&theme=radical" alt="OscarJVD" /></p>
 
 
