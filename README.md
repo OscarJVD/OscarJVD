@@ -1,5 +1,6 @@
-###                                                                          Welcome, I'm Oscar 👋
-I am, a FullStack JavaScript developer specialized in React, Next.js and Node.js with 4 years of experience in web application development. I create engaging and scalable solutions with a focus on user experience. I am an effective communicator and enjoy working in a team. I am committed to learning and keeping up to date with the latest technologies. If you are looking for a skilled and passionate FullStack developer, feel free to contact me.
+<h1 align="center">Hey 👋, Welcome here! I'm Oscar</h1>
+<h3 align="center">I am, a FullStack JavaScript developer specialized in React, Next.js and Node.js</h3>
+I've 4 years of experience in web application development. I create engaging and scalable solutions with a focus on user experience. I am an effective communicator and enjoy working in a team. I am committed to learning and keeping up to date with the latest technologies. If you are looking for a skilled and passionate FullStack developer, feel free to contact me.
 
 - 🔭 I’m currently working on Slidesface social network app
 - 🌱 I’m currently learning NestJs, Kafka and RabbitMQ
@@ -11,6 +12,7 @@ I am, a FullStack JavaScript developer specialized in React, Next.js and Node.js
 
 - 📫 How to reach me: javivar2020@gmail.com or Whatsapp: 3133043714 🧩
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lobaton2020&show_icons=true&locale=en&layout=compact" alt="Lobaton2020" /></p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OscarJVD&theme=radical)
 
 
