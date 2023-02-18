@@ -8,7 +8,7 @@ I've 4 years of experience in web application development. I create engaging and
 - 👯 I’m looking to collaborate on FullStack MERN Projects
 - 🤔 I’m looking for help with React FrontEnd or Nodejs Backend Projects 
 - 💬 Ask me about:
-💻 Programming - HackerRank
+💻 Programming - HackerRank - LeetCode
 ✨ Chess
 
 - 📫 How to reach me: javivar2020@gmail.com or Whatsapp: 3133043714 🧩
