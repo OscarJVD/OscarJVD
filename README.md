@@ -1,6 +1,4 @@
 <h1 align="center">Hello people! 👋 <img src="https://komarev.com/ghpvc/?username=OscarJVD&label=Profile%20views&color=0e75b6&style=flat" alt="OscarJVD" /></h1>
-<!-- <img src="https://github.com/OscarJVD/OscarJVD/blob/main/github-header-image%20(8).png?raw=true"/> -->
-<img src="https://res.cloudinary.com/solumobil/image/upload/v1681607621/cv/2023-03-28_10h08_49_cvgdry.png"/>
 <h3 align="center">I am, a Full Stack JavaScript developer specializing in React, Next.js, and Node.js</h3>
 I've 4 years of experience in web application development. I create engaging and scalable solutions with a focus on user experience. I am an effective communicator and enjoy working in a team. I am committed to learning and keeping up to date with the latest technologies. If you are looking for a skilled and passionate Full Stack developer, feel free to contact me.
 
