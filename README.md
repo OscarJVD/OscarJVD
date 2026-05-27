@@ -12,8 +12,6 @@ Software Engineer with 6 years of experience in web development, specializing in
 💻 Programming - HackerRank - LeetCode
 ✨ Chess
 
-- 📫 How to reach me: javivar2020@gmail.com or Whatsapp: 3133043714 🧩
-
 ### Main Skills, 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
