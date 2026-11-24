@@ -37,7 +37,7 @@ I also work **AI-native**: Claude Code, GitHub Copilot, Gemini, OpenCode, skills
 | **2023 – 2026** | **Banco Caja Social** (Colombia) | End-to-end digital products: **CDT Digital, Bre-B, FIC, KYC Digital**; reusable UI library; microfrontend standards. |
 | **2022 – 2023** | **Ionix Zeleri** | Back office and merchant portal for a multi-merchant payment-links startup (Transbank). |
 | **2022 – 2023** | **Universidad Distrital** | Student events app with notifications and biometric identification (Angular, Ionic, WSO2, AWS SQS, RabbitMQ). |
-| **2021 – 2022** | **Woombat Consulting** | Built an **Identity Provider (SAML + OpenID Connect)** from scratch on AWS (Lambda, RDS, EC2, SAM, Kafka). |
+| **2021 – 2022** | **Woombat Consulting** | Built **SoyYo**, an **Identity Provider (SAML + OpenID Connect) for banks**, from scratch on AWS (Lambda, RDS, EC2, SAM, Kafka), and delivered solutions for **Banco Davivienda**. |
 | **2019 – 2021** | **Ingeal · Solumobil** | 177 modules in PHP/JS, e-commerce, technical-service ERP and billing, launched solo. |
 
 ## 🛠️ Stack
