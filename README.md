@@ -80,6 +80,14 @@ I also work **AI-native**: Claude Code, GitHub Copilot, Gemini, OpenCode, skills
 - **Software Engineering** — Politécnico Grancolombiano (graduated)
 - **Analysis and Development of Information Systems** — SENA (technologist)
 
+## 📜 Certifications
+
+- **Ethical Hacking** — UNAD Colombia (2020)
+- **Scrum Foundation Certificate** — CertiProf (2020)
+- **Programming in Java, Basic to Intermediate** — UNAD Colombia (2020)
+- **Leadership: Practical Leadership Skills** — Chris Croft Training (2024)
+- 🎯 In progress: Burp Suite Certified Practitioner, AWS Cloud Practitioner
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="" />
 <sub>Thanks for stopping by ✨</sub>
