@@ -48,6 +48,7 @@ I also work **AI-native**: Claude Code, GitHub Copilot, Gemini, OpenCode, skills
   <img src="https://skillicons.dev/icons?i=vercel,astro,githubactions,bash,linux,nginx,postman,figma,vscode&perline=9" alt="More tools" />
 </p>
 
+**Security:** OWASP · DAST with Burp Suite · SAST/SCA in CI/CD · SAML / OIDC / OAuth2 (PKCE)  
 **Architecture:** Microfrontends · Microservices · Clean/Hexagonal · SOLID · SAML / OIDC / OAuth2 · Event-driven (Kafka, SQS, RabbitMQ)
 **AI workflow:** Claude Code · GitHub Copilot · Gemini · OpenCode · MCP servers · custom agent skills
 
